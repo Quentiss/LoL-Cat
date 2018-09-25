@@ -1,6 +1,6 @@
-## osu!cat
+## LoL!cat
 This is a python application that tracks the cursor position and key inputs to create a Bongo Cat window which can be used as an overlay for streaming/recording applications.
-## [Latest version](https://github.com/ZeCryptic/osu-cat/releases/tag/v1.2.0)
+## [Latest version](https://github.com/Quentiss/LoL-cat/releases)
 * Window is now resizable (thanks JapanPanda)
 * Dragging the window should no longer be buggy
 * Added an option for chroma key green background
